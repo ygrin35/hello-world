@@ -1,3 +1,3 @@
 # hello-world
 test
-thi is a test
+this is a test
